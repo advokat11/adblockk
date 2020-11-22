@@ -1,6 +1,0 @@
-255.255.255.255 pagead2.googlesynsication.com
-255.255.255.255 googleads.g.doubleclick.net
-255.255.255.255 ad.adriver.ru
-255.255.255.255 pink.habralab.ru
-255.255.255.255 www.google-analytics.com
-255.255.255.255 ssl.google-analytics.com
